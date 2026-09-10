@@ -2865,6 +2865,12 @@
 		(uuid "0cc4f796-bc9a-444b-b1b9-914805125dbf")
 	)
 	(junction
+		(at 142.875 64.135)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3712aa73-a9c1-4f44-9f8b-9bcd95f427fa")
+	)
+	(junction
 		(at 154.94 69.215)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2917,12 +2923,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ceed5b40-7a38-4788-aae4-cda80dcd8499")
-	)
-	(junction
-		(at 142.875 64.135)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d9da7d78-576d-490d-af46-8ae51d933b3d")
 	)
 	(junction
 		(at 167.64 84.455)
@@ -2999,16 +2999,6 @@
 			(type default)
 		)
 		(uuid "305bf43a-4161-4108-b38f-300183ec7772")
-	)
-	(wire
-		(pts
-			(xy 133.35 72.39) (xy 133.35 64.135)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ca3fb74-0136-48a1-a58c-b74684d6214c")
 	)
 	(wire
 		(pts
@@ -3152,7 +3142,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 64.135) (xy 142.875 64.135)
+			(xy 133.35 64.77) (xy 133.35 64.135)
 		)
 		(stroke
 			(width 0)
@@ -3199,6 +3189,16 @@
 			(type default)
 		)
 		(uuid "e2baec06-be75-490b-8def-2f154f8dd643")
+	)
+	(wire
+		(pts
+			(xy 133.35 64.135) (xy 142.875 64.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e67f6249-23ea-46ec-b632-0ae054095c8c")
 	)
 	(wire
 		(pts
@@ -5002,6 +5002,87 @@
 			(project "Placa de Corte TX"
 				(path "/fab2e1a4-6da9-4353-a982-3c54f93ab594"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 133.35 68.58 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8f13709c-aabb-46ce-876b-8398ebeb721c")
+		(property "Reference" "R7"
+			(at 134.62 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1K"
+			(at 134.62 69.215 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 131.572 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 133.35 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "433ff4e5-e91a-4191-8916-0052c5bcb6a8")
+		)
+		(pin "1"
+			(uuid "58ee4dda-e36d-40e5-a541-28209aac291f")
+		)
+		(instances
+			(project "Placa de Corte TX"
+				(path "/fab2e1a4-6da9-4353-a982-3c54f93ab594"
+					(reference "R7")
 					(unit 1)
 				)
 			)

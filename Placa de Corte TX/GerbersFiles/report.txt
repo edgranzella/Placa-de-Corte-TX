@@ -1,0 +1,11 @@
+Trazado a 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-F_Cu.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-B_Cu.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-F_Paste.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-F_Silkscreen.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-F_Mask.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-B_Mask.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-Edge_Cuts.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-F_Courtyard.gbr'.
+Trazado a 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-F_Fab.gbr'.
+Archivo de trabajo Gerber 'C:\Users\dgranzella\Documents\Placa de Corte TX\Placa de Corte TX\GerbersFiles\Placa de Corte TX-job.gbrjob' creado.
+Info: Listo.

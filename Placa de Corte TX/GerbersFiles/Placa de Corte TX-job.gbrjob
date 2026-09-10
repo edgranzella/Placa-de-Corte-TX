@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.3"
     },
-    "CreationDate": "2026-09-10T10:51:16-03:00"
+    "CreationDate": "2026-09-10T16:40:45-03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -44,11 +44,6 @@
     {
       "Path": "Placa de Corte TX-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Placa de Corte TX-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
